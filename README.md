@@ -64,7 +64,7 @@
 >![Screenshot (1678)](https://user-images.githubusercontent.com/1614727/148469509-ed6edecf-d459-46aa-9022-a3435cb1ed8f.png)
 
  ## **ส่งพี่ไปเช่ารถดู๊** 
-> ##### Website for small clinic so patient can queue wherever, see remain queue and see patient's cure history
+> ##### Website for renting car. User can be loanee and loaner in one account.
 > #### **Develop with:** 
 > > - Express
 > > - Vue
