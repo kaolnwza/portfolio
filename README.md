@@ -11,6 +11,7 @@
 
 ### Framework
 > - Go Fiber
+> - Go Gin
 > - Nodejs
 > - Express
 > - Spring
