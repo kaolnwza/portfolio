@@ -1,30 +1,3 @@
-#Sinlapawit Ritnamkham
-
-## My Skills
-### Programming language
-> - C 
-> - Python
-> - Java
-> - Golang
-> - Javascript
-> - PHP
-
-### Framework
-> - Go Fiber
-> - Go Gin
-> - Nodejs
-> - Express
-> - Spring
-> - React
-> - React native
-> - Vue
-> - Nuxt
-
-### Database
-> - MySQL
-> - MongoDB
-> - Firebase
-
 ## My Project
  ## **Konoha e-commerce** *(on developing)*
 > ##### Website for buy and sell product
