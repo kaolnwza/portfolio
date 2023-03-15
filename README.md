@@ -20,7 +20,7 @@
 > > - PostgreSQL
 > > - React Native Cli
 > 
-> *[Github Link](https://github.com/kaolnwza/tomato-disease-detector-application)*
+> *[Github Link](https://github.com/kaolnwza/tomato-disease-detector-application/tree/dev)*
 
 
  ## **Konoha e-commerce** *(on developing)*
