@@ -1,4 +1,28 @@
 ## My Project
+
+## **MU Microservices Project (on Developing)** 
+> ##### Project liking e-commerce using Golang with Hexagonal Architecture and Microservices. This project using gRPC for communicate between service and using websocket for Chat service
+> #### **Develop with:** 
+> > - Go
+> > - gRPC
+> > - Websocket
+> > - PostgreSQL
+> 
+> *[Github Link](https://github.com/kaolnwza/mu-microservices)*
+
+## **Tomato Disease Detection Application Gratulation Project (on Developing)** 
+> ##### This application using Golang with Hexagonal Architecture and Kubernetes on GCP for deploying, in deep learning using CNN (GoogLeNet, Resnet, ...) trained by Pytorch with Google Colab.
+> #### **Develop with:** 
+> > - Go
+> > - Kubernetes
+> > - Pytorch
+> > - Docker
+> > - PostgreSQL
+> > - React Native Cli
+> 
+> *[Github Link](https://github.com/kaolnwza/tomato-disease-detector-application)*
+
+
  ## **Konoha e-commerce** *(on developing)*
 > ##### Website for buy and sell product
 > #### **Develop with:** 
@@ -11,9 +35,6 @@
 > *[Github Link](https://github.com/kaolnwza/konoha-e-commerce)*
 >
 > ![Screenshot (1671)](https://user-images.githubusercontent.com/1614727/148465438-451f4479-1e63-4924-91a2-1cc9fe3938be.png)
-
-
-
 
  ## **Palatex** 
 > ##### Website for palatex factory that can make transaction history for customer who sold palatex to factory and customer can see customer's history
