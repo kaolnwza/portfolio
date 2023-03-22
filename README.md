@@ -10,7 +10,7 @@
 > 
 > *[Github Link](https://github.com/kaolnwza/mu-microservices)*
 
-## **Tomato Disease Detection Application Gratulation Project (on Developing)** 
+## **Tomato Disease Detection Application Graduation Project (on Developing)** 
 > ##### This application using Golang with Hexagonal Architecture and Kubernetes on GCP for deploying, in deep learning using CNN (GoogLeNet, Resnet, ...) trained by Pytorch with Google Colab.
 > #### **Develop with:** 
 > > - Go
