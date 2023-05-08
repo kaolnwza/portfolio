@@ -82,7 +82,7 @@
 > ![Screenshot (1682)](https://user-images.githubusercontent.com/1614727/148470520-8991bdf7-f347-4d0b-a293-83ceda202986.png)
 
 
- ## **RedChineseRazer** 
+ ## **Copy Razer Website for learning Vue** 
 > ##### Learning vue with design like razer website
 > #### **Develop with:** 
 > > - Vue
