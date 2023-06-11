@@ -14,13 +14,14 @@
 > ##### This application using Golang with Hexagonal Architecture and Kubernetes on GCP for deploying, in deep learning using CNN (GoogLeNet, Resnet, ...) trained by Pytorch with Google Colab.
 > #### **Develop with:** 
 > > - Go
+> > - Unit Testing
 > > - Kubernetes
 > > - Pytorch
 > > - Docker
 > > - PostgreSQL
 > > - React Native Cli
 > 
-> *[Github Link](https://github.com/kaolnwza/tomato-disease-detector-application/tree/dev)*
+> *[Github Link](https://github.com/kaolnwza/tomato-disease-detector-application)*
 
 
  ## **Konoha e-commerce** *(on developing)*
